@@ -20,7 +20,7 @@ After navigating to the correct folder, enter jupyter lab at the CLI.
 
 Open the Jupyter Lab notebook titled crypto_arbitrage.ipynb and clik on the double right arrow button. This will run the computations for the notebook.
 
-![alt text]
+![alt text](https://github.com/toniahurst/FinTech_Module_3_Challenge/blob/main/Mod_3_screenshot.png)
 
 ---
 

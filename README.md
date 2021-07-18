@@ -32,6 +32,6 @@ Antonia Hurst.
 
 ## License
 Copyright (c) 2015-2021 Project Jupyter Contributors
-![alt text](https://github.com/jupyterlab/jupyterlab/blob/master/LICENSE)
+![Copy of license](https://github.com/jupyterlab/jupyterlab/blob/master/LICENSE)
 
 ---

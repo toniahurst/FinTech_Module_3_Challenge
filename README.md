@@ -18,10 +18,7 @@ After navigating to the correct folder, enter jupyter lab at the CLI.
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations showing how your project works.
-![alt text](https://github.com/toniahurst/FinTech_Module_2_Challenge/blob/main/images%20for%20README/Module_2_Challenge.png)
 
-If you'd like to see app.py run from the terminal, [click HERE to download a video (choose download or raw)](https://github.com/toniahurst/FinTech_Module_2_Challenge/blob/main/images%20for%20README/Module_2_Challenge_app.py_run%20from%20terminal.mov).
 
 ---
 
@@ -32,7 +29,7 @@ Antonia Hurst.
 ---
 
 ## License
-
-MIT License
+Copyright (c) 2015-2021 Project Jupyter Contributors
+![alt text]https://github.com/jupyterlab/jupyterlab/blob/master/LICENSE
 
 ---

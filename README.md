@@ -18,7 +18,9 @@ After navigating to the correct folder, enter jupyter lab at the CLI.
 
 ## Usage
 
+Open the Jupyter Lab notebook titled crypto_arbitrage.ipynb and clik on the double right arrow button. This will run the computations for the notebook.
 
+![alt text]
 
 ---
 
